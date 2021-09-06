@@ -1,20 +1,13 @@
 {
   "name": "anires",
   "version": "1.0.0",
-  "description": "試毅-思伟_一个会动的简历",
-  "author": "zhousiwei <2434387555@qq.com>",
+  "description": "丁乐文_一个会动的简历",
+  "author": "dinglewen <1966165000@qq.com>",
   "license": "Apache License",
   "homepage": ".",
   "keywords": [
-    "Java",
-    "Java软件工程师",
-    "resume",
-    "后端",
-    "后端工程师",
-    "简历",
-    "后端简历",
-    "后端工程师简历",
-    "java后端简历"
+    "c/c++",
+    "c/c++软件工程师"
   ],
   "private": true,
   "scripts": {

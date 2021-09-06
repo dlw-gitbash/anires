@@ -25,8 +25,8 @@ export default {
       fullStyle: [
         `/*
 * Inspired by http://strml.net/
-* 源码地址 https://gitee.com/zhousiwei/anires
-* 大家好，我是試毅-思伟。
+* 源码地址 https://github.com/dlw-gitbash/anires
+* 大家好，我是ding_lewen。
 * 我来写一份简历！
 */
 
@@ -113,74 +113,36 @@ html{
       ],
       currentMarkdown: "",
       fullMarkdown: `
-周思伟
+丁乐文
 ----
-23岁，Java软件工程师，三年Java EE 从业经验，目前在杭州工作。
-有良好的文档编写和代码书写规范，能独立解决问题、百折不挠、细节控
+27岁，软件开发工程师，目前在上海工作。
+有良好的文档编写和代码书写规范，能独立解决问题、有着自主学习的意识，对新事物充满好奇心
 <br/>
-
-- [中英文简历](https://zhousiwei.gitee.io/cv/)
 
 技能
 ----
-* 后端开发
-* 聚合支付
-* 单点登录
-* 权限管理
-* 公众号/小程序开发
-* API接口开发
-* Linux
-* 开源爱好者
-* 博客系统
+* c/c++开发
+* QT开发 
 
 技术及语言
 ----
-  - **Java**: SpringBoot、SpringCloud、SpringMVC、MyBatis、Shiro、Freemarker
-  - **前端**: VueJs、Bootstrap、LayUI、jQuery UI
-  - **数据库**: MySQL/MariaDB、SQLServer、Oracle、MongoDB、redis、memcached
-  - **web 服务器**: Nginx、Tomcat、Apache、Jetty
+  - **Code**: c、c++、python、makefile 
   - **OS**: Linux、Windows
-  - **Others**: Git、Svn、Maven、XMind、Visio、IDEA
+  - **Others**: Git、Svn、Visio、vs
 
 工作经历
 ----
-1. [杭州特扬网络科技有限公司](http://www.hztywl.cn/)
-2. [江西三叉数信息科技有限公司](http://www.3xdata.cn/)
-3. [江西益强微盈信息科技有限公司](http://jxyq123.51sole.com/)
-
-开源项目
-----
-1. [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://gitee.com/zhousiwei/bootplus)
-2. [SpringBoot集成MyBatisPlus集成Shiro可以快速开发](https://gitee.com/zhousiwei/springboot_mybatisplus)
-3. [自制spring boot starter for fastjson](https://gitee.com/zhousiwei/fastjson-spring-boot-starter)
-4. [基于web版kettle开发的一套分布式综合调度,管理,ETL开发的用户专业版B/S架构工具](https://github.com/JoeyBling/webkettle)
-5. [一个会动的简历](https://gitee.com/zhousiwei/anires)
-6. [VuePress记录技术开发笔记](https://gitee.com/zhousiwei/ibooks)
-7. [使用GitBook记录开发笔记](https://zhousiwei.gitee.io/myBook/)
-8. [試毅-思伟的技术博客网站](https://gitee.com/zhousiwei/zhousiwei)
+1. [上海紫港信息科技有限公司]
 
 链接
 ----
-* [技术博客](https://zhousiwei.gitee.io/)
-* [GitHub](https://github.com/JoeyBling)
-* [简书](https://www.jianshu.com/u/02cbf31a043a)
-* [开发笔记](https://zhousiwei.gitee.io/ibooks)
-
-[归档文章](https://zhousiwei.gitee.io/)
-----
-1. [Java](https://zhousiwei.gitee.io/tags/Java/)
-2. [Linux](https://zhousiwei.gitee.io/tags/Linux/)
-3. [ELK日志分析](https://zhousiwei.gitee.io/tags/ELK%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90/)
-4. [MySQL](https://zhousiwei.gitee.io/tags/MySQL)
-5. [Hexo](https://zhousiwei.gitee.io/tags/Hexo)
-6. [日记本](https://zhousiwei.gitee.io/tags/%E6%97%A5%E8%AE%B0%E6%9C%AC/)
+* [GitHub](https://github.com/dlw-gitbash)
 
 联系我
 ----
-* 联系QQ：**2434387555** | 微信：**13647910412**
-* 主要涉及技术：**Java后端开发**、**聚合支付**、**公众号开发**、**开源爱好者**、**Linux**
+* 联系QQ：**1966165000**
+* 主要涉及技术：**c开发**、**开源爱好者**、**Linux**
 
-> 如果你喜欢这个效果，Fork [我的项目](https://gitee.com/zhousiwei/anires)，打造你自己的简历！
 `
     };
   },
