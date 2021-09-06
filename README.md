@@ -24,7 +24,7 @@ git push
 ```
 3. 开启 **GitHub Pages** 功能，把生成的目标文件`public/*`放在你的web服务器上。
 
-4. 访问地址：[https://your-github-username.github.io/anires/public](https://joeybling.github.io/anires/index.html "https://joeybling.github.io/anires/index.html")
+4. 访问地址：[https://your-github-username.github.io/anires/public](https://joeybling.github.io/anires/index.html "https://dlw-gitbash.github.io/anires/index.html")
 
 ## License
 
